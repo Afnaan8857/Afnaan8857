@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afnaan8857
-- 👀 I’m interested in web development, programming, problemsolving
+- 👀 I’m interested in web development, programming, problem solving
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects and problems to solve
 - 📫 How to reach me on linked in 
