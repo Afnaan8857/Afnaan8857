@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afnaan8857
+- 👋 Hi, I’m @Afnaan Khan
 - 👀 I’m interested in web development, programming, problem solving
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects and problems to solve
